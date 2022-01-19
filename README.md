@@ -3,10 +3,10 @@
 Reference Books:
 
 NLP eBook:
-https://lnkd.in/gwguw3ec
+https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf
 
 Video Lecture:
-https://lnkd.in/gUwt2FxH
+https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists
 
 Deep Learning eBook:
 https://d2l.ai/index.html
